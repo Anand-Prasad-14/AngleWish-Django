@@ -6,6 +6,27 @@ AngleWish is a handy tool that helps you remember the birthdays of your friends 
 - Add Data Manually: Add individual records directly into the system.
 - Automatic Email Sending: AngleWish will automatically send birthday wishes via email every year.
 
+## Demo 
+
+* **Homepage**
+  
+  ![Home](https://github.com/Anand-Prasad-14/AngleWish-Django/assets/118905953/fe5a9ddd-ed18-468a-8546-5427ac3358a7)
+
+* **Upload Execelsheet**
+  
+  ![upload](https://github.com/Anand-Prasad-14/AngleWish-Django/assets/118905953/dc6f3221-0980-4732-a4bd-aea83657919b)
+
+* **Add data**
+  
+  ![add](https://github.com/Anand-Prasad-14/AngleWish-Django/assets/118905953/b4325eb5-3471-4801-b5bb-ec3ae155fa14)
+
+
+* **Email**
+  
+   ![email](https://github.com/Anand-Prasad-14/AngleWish-Django/assets/118905953/1368e250-efdf-4144-b353-591c0ada3528)
+
+
+
 ## Getting Started
 Follow these steps to get AngleWish up and running on your local machine:
 
