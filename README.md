@@ -1,5 +1,5 @@
 # AngleWish
-AngleWish is a handy tool that helps you remember the birthdays of your friends and family and sends them birthday wishes via email automatically. You can upload an Excel sheet or manually add the data once, and PyWisher will take care of the rest, ensuring you never miss a birthday again!
+AngleWish is a handy tool that helps you remember the birthdays of your friends and family and sends them birthday wishes via email automatically. You can upload an Excel sheet or manually add the data once, and AngleWish will take care of the rest, ensuring you never miss a birthday again!
 
 ## Features
 - Upload Excel Sheet: Import your birthday data from an Excel file.
@@ -7,7 +7,7 @@ AngleWish is a handy tool that helps you remember the birthdays of your friends 
 - Automatic Email Sending: PyWisher will automatically send birthday wishes via email every year.
 
 ## Getting Started
-Follow these steps to get PyWisher up and running on your local machine:
+Follow these steps to get AngleWish up and running on your local machine:
 
 * [Fork and Clone the Repository](https://github.com/Anand-Prasad-14/AngleWish-Django/fork)
 
