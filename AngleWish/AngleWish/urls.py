@@ -15,8 +15,19 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+from sender import execute
 from django.urls import path
+from uploader.views import home, dashboard, add_form, uploader
+from sender.views import sender, email_temp
+from django.views.generic import TemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('robots.txt', TemplateView.as_view(template_name="robots.txt", content_type='text/plain')),
+    path('', home,name="home"),
+    path('dashboard/', dashboard, name="dashboard"),
+    path('add/', add_form, name="add_form"),
+    path("uploader/", uploader, name="uploader"),
+    path('sender/', sender, name="sender"),
+    path('wish/<str:sender>/<str:receiver>/', email_temp, name="email_temp")
 ]
