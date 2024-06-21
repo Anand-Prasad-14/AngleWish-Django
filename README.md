@@ -9,16 +9,16 @@ AngleWish is a handy tool that helps you remember the birthdays of your friends 
 ## Getting Started
 Follow these steps to get PyWisher up and running on your local machine:
 
-* [Fork and Clone the Repository]
+* [Fork and Clone the Repository](https://github.com/Anand-Prasad-14/AngleWish-Django/fork)
 
   Fork this repository to your GitHub account and Clone the forked repository to your local machine:
 
-         `git clone https://github.com/yourusername/PyWisher.git`
+         `https://github.com/Anand-Prasad-14/AngleWish-Django.git`
 * Navigate to the Project Directory
 
 * Change your working directory to the folder where you downloaded the files:
 
-        `cd PyWisher`
+        `cd AngleWish`
 * Install Dependencies
 
   Install all the required dependencies using Pipenv:
