@@ -4,7 +4,7 @@ AngleWish is a handy tool that helps you remember the birthdays of your friends 
 ## Features
 - Upload Excel Sheet: Import your birthday data from an Excel file.
 - Add Data Manually: Add individual records directly into the system.
-- Automatic Email Sending: PyWisher will automatically send birthday wishes via email every year.
+- Automatic Email Sending: AngleWish will automatically send birthday wishes via email every year.
 
 ## Getting Started
 Follow these steps to get AngleWish up and running on your local machine:
